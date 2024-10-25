@@ -97,5 +97,5 @@ void generate_random_number(void)
    srand((unsigned)time(NULL));
    // Generating a random number between 0 and 100 (inclusive)
    random_number = rand() % 101;
-   cout << "The random number generator is: " << random_number << endl;
+  // cout << "The random number generator is: " << random_number << endl;
 }
