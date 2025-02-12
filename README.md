@@ -1,5 +1,3 @@
-# PRODIGY_SD_02
-
 # Guessing Game
 
 ## Description
@@ -21,13 +19,13 @@ Welcome to the Guessing Game! This is a simple console-based game where the play
 
 ## Installation
 
-1. Clone the repository or download the source code file `PRODIGY_SD_02.cpp`.
+1. Clone the repository or download the source code file `GuessingGame.cpp`.
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing the `PRODIGY_SD_02.cpp` file.
+3. Navigate to the directory containing the `GuessingGame.cpp` file.
 4. Compile the code using your preferred C++ compiler. For example, using `g++`:
 
    ```bash
-   g++ PRODIGY_SD_02.cpp -o GuessingGame
+   g++ GuessingGame.cpp -o GuessingGame
    ```
 
 5. Run the compiled program:
